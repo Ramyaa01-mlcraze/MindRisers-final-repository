@@ -177,7 +177,7 @@ header ul li a:hover
     <img class = "header-img" src = "logo.png" alt="logo">
     <ul>
      <li>
-      <a href="home.html">Home</a>
+      <a href="index.html">Home</a>
      </li>
      <li>
       <a href="about.html">About Us</a>
